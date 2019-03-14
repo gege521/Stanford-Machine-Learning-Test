@@ -1,1 +1,1 @@
-### Matlab Code for Stanford-Machine-Learning-Test
+### Matlab Code of Stanford Machine Learning Test on Coursera
